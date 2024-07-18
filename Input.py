@@ -4,8 +4,6 @@ from langchain.chains import ConversationChain
 from langchain.agents import load_tools, AgentType, initialize_agent
 from langchain.llms import GooglePalm
 from langchain.llms.base import BaseLLM
-import Serp.txt
-from Serp.txt import Serp_api_key, Google_api_key
 import os
 os.environ['SERPAPI_API_KEY'] = Serp_api_key
 
