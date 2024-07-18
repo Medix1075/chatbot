@@ -1,0 +1,5 @@
+Serp_api_key = "e8d97f98bb34fd5b869c25a7c21bd49e1beec1d7d788882146cdb8fe9f7861a9"
+
+
+Google_api_key ="AIzaSyAfufg_BdiAuEuBPr6BjlLYgopRmPuaSao"
+
