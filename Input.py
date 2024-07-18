@@ -1,4 +1,3 @@
-from langchain.memory import ConversationBufferMemory
 from langchain.memory import ConversationBufferWindowMemory
 from langchain.chains import ConversationChain
 from langchain.agents import load_tools, AgentType, initialize_agent
