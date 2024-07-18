@@ -1,0 +1,11 @@
+pip install langchain
+pip install google-generativeai
+pip install langchain_community
+pip install wikipedia
+pip install google-search-results
+pip install numexpr
+pip install sentence_transformers
+pip install U langchain-huggingface
+pip install --upgrade --quiet  langchain sentence_transformers
+pip install faiss-cpu
+streamlit run main.py
